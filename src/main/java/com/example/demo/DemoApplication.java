@@ -14,7 +14,7 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	public String home() {
-		return "Bem-vindo à minha aplicação de ToDoList em Java!";
+		return "Beem-vindo à minha aplicação de ToDoList em Java!";
 	}
 
 }
